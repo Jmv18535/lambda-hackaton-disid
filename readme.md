@@ -4,7 +4,7 @@
 
 ## Introducción
 
-La funcionalidad de la aplicación Notas Online se centra en la gestión de calificaciones. Los alumnos pueden acceder a sus notas en las asignaturas en las que están matriculados y obtener certificados de calificaciones. Al mismo tiempo, los profesores tienen la capacidad de evaluar a los estudiantes en las materias que imparten.
+Esta skill de Alexa se encarga de pedir una serie de datos a una api desarrollada en el hackaton, en los manejadores se trata esta información para despues ser narrada correctamente.
 
 ## Tecnologias usadas
 
@@ -14,12 +14,6 @@ La funcionalidad de la aplicación Notas Online se centra en la gestión de cali
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="fotos_readme/alexa-logo.png" alt="Logo de BootStrap" width="160" height="100"> 
 </div>
-
-## Guia de uso
-
-A la hora de utilizar lo desarrollado se comprime el proyecto en un ".war" que es guardado en el directorio "/ruta/de/tu/tomcat/webapps/" donde una vez iniciado Apache Tomcat con "startup.sh" desde bin se puede comprobar la disponibilidad de la web en "http://localhost:8080/nol"
-
-En el repositorio se incluyen los dos ficheros html iniciales y una carpeta con los avatares de los usuarios. El código java desarrollado se encuentra en la carpeta classes de WEB-INF.
 
 ## Videos
 Aqui se adjuntan una serie de videos donde se ve la configuración de la skill y su funcionamiento.
