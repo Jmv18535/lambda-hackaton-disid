@@ -26,7 +26,8 @@ Aqui se adjuntan una serie de videos donde se ve la configuración de la skill y
 
 ### Configuracion
 
-<iframe width="560" height="315" src="fotos_readme\Grabacion_Alexa_2_Hckt.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+https://github.com/Jmv18535/skill-citas-medicas/assets/73277658/b80a1de6-631d-46a8-a73a-ab6d3cc9c30a
 
 <iframe width="560" height="315" src="fotos_readme\Grabacion_Alexa_1.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
