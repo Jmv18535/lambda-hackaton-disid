@@ -33,3 +33,8 @@ https://github.com/Jmv18535/skill-citas-medicas/assets/73277658/e6271fea-08a0-47
 
 ### Prueba
 
+https://github.com/Jmv18535/skill-citas-medicas/assets/73277658/6951e3e1-9118-431d-abff-5b4825870c0c
+
+https://github.com/Jmv18535/skill-citas-medicas/assets/73277658/045685dd-aa79-4dbf-a656-32a98af8f1de
+
+
