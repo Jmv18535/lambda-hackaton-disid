@@ -26,10 +26,10 @@ Aqui se adjuntan una serie de videos donde se ve la configuración de la skill y
 
 ### Configuracion
 
+https://github.com/Jmv18535/skill-citas-medicas/assets/73277658/cba54dfa-4e54-4f2c-a29a-593203a05ea6
 
-https://github.com/Jmv18535/skill-citas-medicas/assets/73277658/b80a1de6-631d-46a8-a73a-ab6d3cc9c30a
+https://github.com/Jmv18535/skill-citas-medicas/assets/73277658/e6271fea-08a0-4772-b3df-14b376fdd847
 
-<iframe width="560" height="315" src="fotos_readme\Grabacion_Alexa_1.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Prueba
-<iframe width="560" height="315" src="fotos_readme\Grabacion_Alexa_4.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
